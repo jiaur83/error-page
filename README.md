@@ -1,3 +1,3 @@
 ## Page Not Found 404
 
-![screenshot-image](errorPage.jpg)
+![screenshot-image](error-page.jpg)
